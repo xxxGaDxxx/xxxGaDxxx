@@ -32,7 +32,15 @@
 <br/>
 
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/JavaScript">
+    <a href="https://www.jetbrains.com/webstorm/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
+         title="WebStorm" alt="WebStorm"
+         width="40" height="40"/></a>&nbsp;
+     <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         title="Postman" alt="Postman"
+         width="40" height="40"/></a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/JavaScript">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
              width="40" height="40"/></a>&nbsp;
@@ -48,14 +56,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
-         title="WebStorm" alt="WebStorm"
-         width="40" height="40"/></a>&nbsp;
-     <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-         title="Postman" alt="Postman"
-         width="40" height="40"/></a>&nbsp;
     <a href="https://reactjs.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
@@ -84,7 +84,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
              title="SASS" alt="SASS"
              width="40" height="40"/></a>&nbsp;         
-    
+
 </div>
 
 <br/>
